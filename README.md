@@ -4,7 +4,6 @@
 
 ## By the way here are some of my statistics 🚀
 ![KleversonCruz's github stats](https://github-readme-stats.vercel.app/api?username=KleversonCruz&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KleversonCruz&theme=tokyonight" alt="mystreak"/>
 ![KleversonCruz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonCruz&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning React and NextJs
