@@ -1,11 +1,8 @@
 ## Hello Folks 👋
-<a href="https://www.youtube.com/watch?v=uv5i5yg-zNc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 * 👨‍🎓 Computer Science Student
 * 🔍 Back-end Development
 * 🖥️ I’m currently learning React, NextJs and NodeJs
-
-<a href="https://www.youtube.com/watch?v=uv5i5yg-zNc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Statistics 🚀
 <div>
@@ -13,7 +10,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonCruz&theme=tokyonight&layout=compact"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://www.youtube.com/watch?v=uv5i5yg-zNc"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--
 **KleversonCruz/KleversonCruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
