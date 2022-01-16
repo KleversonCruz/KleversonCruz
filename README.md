@@ -4,8 +4,8 @@
 
 ## Statistics 🚀
 <div>
-  ![KleversonCruz's github stats](https://github-readme-stats.vercel.app/api?username=KleversonCruz&show_icons=true&theme=tokyonight)
-  ![KleversonCruz's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonCruz&theme=tokyonight&layout=compact)
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KleversonCruz&show_icons=true&theme=tokyonight"/>
+  <img height="170em"(src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonCruz&theme=tokyonight&layout=compact"/>
 </div>
 🌱 I’m currently learning React, NextJs and NodeJs
 
