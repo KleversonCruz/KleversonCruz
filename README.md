@@ -6,7 +6,7 @@
 
 ## Statistics 🚀
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KleversonCruz&show_icons=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=KleversonCruz&show_icons=true&theme=tokyonight&layout=compact"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KleversonCruz&theme=tokyonight&layout=compact"/>
 </div>
 
