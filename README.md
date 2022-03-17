@@ -1,7 +1,7 @@
 ## Hello Folks 👋
 * 👨‍🎓 Computer Science Student
 * 🔍 Back-end Development
-* 🖥️ I’m currently learning React, NextJs and NodeJs
+* 🖥️ I’m currently learning NodeJs
 
 ## Statistics 🚀
 <div>
