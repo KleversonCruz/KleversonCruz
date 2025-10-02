@@ -1,6 +1,6 @@
 ## Hello Folks 👋
 
-I'm Kleverson, a back-end engineer at [TecnoSpeed](https://tecnospeed.com.br/).
+I'm Kleverson, a back-end engineer.
 
 Spending my time writing code, especially in .NET or JS
 
